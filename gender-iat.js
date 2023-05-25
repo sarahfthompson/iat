@@ -1,4 +1,4 @@
-define(['https://github.com/sarahfthompson/iat/blob/d27272103771d4ff54ea1ee29d6363f20fdc940a/gender-iat.js'], function (qiatExtension) {
+define(['https://github.com/sarahfthompson/iat/blob/6a559693372f99d8ca0fae387ead849baa3fa63d/gender-iat.js'], function (qiatExtension) {
     return qiatExtension({
         // uncomment the following line in order to skip blocks using esc + enter
         // DEBUG: true, 
