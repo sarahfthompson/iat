@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/sarahfthompson/iat/gender-iat.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://github.com/sarahfthompson/iat/blob/ae3ccefd5639d5384cf03bbf604aa5d7ab04902b/gender-iat.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
